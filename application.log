@@ -1,0 +1,157 @@
+2022-04-14 22:56:12,566  INFO [main] SauceDemotejasV5:41 - open browser
+2022-04-14 22:58:10,309  INFO [main] SauceDemotejasV5:40 - open browser
+2022-04-14 23:01:17,949  INFO [main] SauceDemotejasV5:40 - open browser
+2022-04-14 23:06:50,097  INFO [main] SauceDemotejasV5:40 - open browser
+2022-04-14 23:16:36,728  INFO [main] SauceDemotejasV5:37 - open browser
+2022-04-14 23:28:40,378  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:31:19,796  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:33:46,282  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:33:48,731  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:33:48,940  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:33:49,109  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:33:49,316  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:48:22,719  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:48:27,394  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:48:27,626  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:48:27,811  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:48:28,013  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:49:48,236  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:49:50,985  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:49:51,147  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:49:51,287  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:49:51,459  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:50:01,913  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:50:05,123  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:50:05,261  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:50:05,401  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:50:05,569  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:50:35,117  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:50:38,606  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:50:38,737  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:50:38,848  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:50:39,045  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:50:55,929  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:50:57,799  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:50:57,940  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:50:58,072  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:50:58,243  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:51:08,445  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:51:10,232  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:51:10,362  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:51:10,496  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:51:10,669  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:54:22,291  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-14 23:54:29,522  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:54:29,753  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:54:29,900  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:54:30,069  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:54:46,834  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:54:46,961  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:54:47,082  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:54:47,192  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:55:03,936  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:55:04,073  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:55:04,187  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:55:04,331  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-14 23:55:27,608  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-14 23:55:27,764  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-14 23:55:27,881  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-14 23:55:27,979  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:02:12,155  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:02:44,460  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:02:44,800  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:02:45,078  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:02:45,320  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:04:23,766  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:04:29,020  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:04:29,278  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:04:29,490  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:04:29,738  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:14:34,331  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:14:48,691  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:14:48,978  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:14:49,213  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:14:49,474  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:15:20,185  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:15:33,771  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:15:34,031  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:15:34,200  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:15:34,484  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:19:37,377  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:19:45,268  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:19:45,607  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:19:45,817  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:19:46,039  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-15 09:23:28,057  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-15 09:23:41,930  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-15 09:23:42,231  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-15 09:23:42,443  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-15 09:23:42,664  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-16 22:38:33,918  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-16 22:38:55,711  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-16 22:38:55,944  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-16 22:38:56,051  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-16 22:38:56,210  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-16 22:43:57,536  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-16 22:44:00,419  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-16 22:44:00,631  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-16 22:44:00,785  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-16 22:44:00,952  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-16 22:45:43,632  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-16 22:45:48,358  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-16 22:45:48,539  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-16 22:45:48,657  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-16 22:45:48,800  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-16 22:46:56,995  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-16 22:47:01,603  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-16 22:47:01,796  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-16 22:47:01,907  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-16 22:47:02,074  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:26:24,517  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:26:26,898  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:26:27,142  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:26:27,304  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:26:27,549  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:28:49,200  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:28:55,635  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:28:55,891  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:28:56,018  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:28:56,190  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:29:49,629  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:29:49,975  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:29:58,390  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:29:58,682  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:29:58,865  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:29:58,997  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:29:59,194  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:29:59,549  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:29:59,854  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:30:00,160  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:53:35,609  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:53:41,436  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:53:41,699  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:53:41,824  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:53:41,996  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-04-17 14:56:27,698  INFO [main] SauceDemotejasV5:36 - open browser
+2022-04-17 14:56:32,569  INFO [main] SauceDemotejasV5:55 - open sauce demo url
+2022-04-17 14:56:32,798  INFO [main] SauceDemotejasV5:62 - Send Username
+2022-04-17 14:56:32,953  INFO [main] SauceDemotejasV5:65 - send Password
+2022-04-17 14:56:33,256  INFO [main] SauceDemotejasV5:68 - login succesfull
+2022-05-12 09:04:01,500  INFO [main] SauceDemotejasV5:37 - open browser
+2022-05-12 09:05:04,958  INFO [main] SauceDemotejasV5:37 - open browser
+2022-05-12 09:05:25,606  INFO [main] SauceDemotejasV5:56 - open sauce demo url
+2022-05-12 09:05:25,878  INFO [main] SauceDemotejasV5:63 - Send Username
+2022-05-12 09:05:26,054  INFO [main] SauceDemotejasV5:66 - send Password
+2022-05-12 09:05:26,309  INFO [main] SauceDemotejasV5:69 - login succesfull
+2022-05-12 09:05:36,910  INFO [main] SauceDemotejasV5:56 - open sauce demo url
+2022-05-12 09:05:37,114  INFO [main] SauceDemotejasV5:63 - Send Username
+2022-05-12 09:05:37,292  INFO [main] SauceDemotejasV5:66 - send Password
+2022-05-12 09:05:37,438  INFO [main] SauceDemotejasV5:69 - login succesfull
+2022-05-12 09:05:58,603  INFO [main] SauceDemotejasV5:56 - open sauce demo url
+2022-05-12 09:05:58,848  INFO [main] SauceDemotejasV5:63 - Send Username
+2022-05-12 09:05:59,059  INFO [main] SauceDemotejasV5:66 - send Password
+2022-05-12 09:05:59,238  INFO [main] SauceDemotejasV5:69 - login succesfull
+2022-05-12 09:06:25,094  INFO [main] SauceDemotejasV5:56 - open sauce demo url
+2022-05-12 09:06:25,284  INFO [main] SauceDemotejasV5:63 - Send Username
+2022-05-12 09:06:25,435  INFO [main] SauceDemotejasV5:66 - send Password
+2022-05-12 09:06:25,576  INFO [main] SauceDemotejasV5:69 - login succesfull
